@@ -1,45 +1,33 @@
-# Excel-Sales-Finance-Analytics
 
-## Sales Report :
+# Project Background
 
-- **Project objective:** 
+Atliq Hardware is a FMCG company which sells computers, laptops and peripherals through e-commerece paltforms like Amazon, Flipkart and through stores like croma, best buy and also their own Atliq Exclusive stores. 
 
-    **1.** Create a _[customer performance report](https://github.com/AnkeethV/Excel-Sales-Finance-Ana-ytics/blob/main/Customer%20Performance.pdf)_
+The company has significant amount of data on its sales and operational efficiency that has been previously underutilized. This project analyses this data to uncover critical insights that will improve Atliq's commercial success.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AnkeethV/Excel-Sales-Finance-Ana-ytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
+Insights and recommendations are provided on the following key areas:
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- Net Sales Performance: Evaulation of historical sales patterns, by region, divison and market, focusing on Net Sales Revenue for each customer.
+- Market Performance: Evaulation of historical sales patterns, by region and divison, focusing on Net Sales Revenue for each market and comparsion with the target.
+- Profit & Loss Statement: P & L statement with key parameters Net Sales, COGS, Gross Margin and Gross Margin% by region, division and market.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+Customer performance report can be found [here](https://github.com/AnkeethV/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance.pdf)
 
-- **Role of the report:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+Market performance report can be found [here](https://github.com/AnkeethV/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
 
-## Finance Report :
+P&L Statement by month can be found [here](https://github.com/AnkeethV/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Month.pdf)
 
-- **Project objective:** 
+P&L Statement by Fiscal years can be found [here](https://github.com/AnkeethV/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Years.pdf)
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AnkeethV/Excel-Sales-Finance-Ana-ytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Years.pdf)_ 
+P&L Statement by Market can be found [here](https://github.com/AnkeethV/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Market.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AnkeethV/Excel-Sales-Finance-Ana-ytics/blob/main/P%26L%20Statement%20by%20Market.pdf)_
+# Data Structure and Initial checks
 
-   **3.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/AnkeethV/Excel-Sales-Finance-Ana-ytics/blob/main/P%26L%20Statement%20by%20Month.pdf)_
-   
-- **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+Atliq's Data structure consists for four main tables as seen below: dim_customer, dim_product, dim_market, fact_sales_monthly with a total row count of 7,99,962 rows.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+![Data Model](images/Screenshot%202026-09-27%20234531.png)
 
-- **Role of the report:** Align financial planning with strategic goals, Instill confidence in the organization's financial outlook.
 
-## Technical Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+
+
