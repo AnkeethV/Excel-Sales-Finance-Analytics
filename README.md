@@ -25,7 +25,25 @@ P&L Statement by Market can be found [here](https://github.com/AnkeethV/Excel-Sa
 
 Atliq's Data structure consists for four main tables as seen below: dim_customer, dim_product, dim_market, fact_sales_monthly with a total row count of 7,99,962 rows.
 
+#### Description of each table is as follows:
+- dim_customer: contains customer-related data.
+- dim_product: contains product-related data.
+- dim_market: contains market-related data.
+- fact_sales_monthly: contains monthly sales data for each product.
+
 ![Data Model](images/Screenshot%202026-09-27%20234531.png)
+
+# Executive Summary
+
+#### Sales Overview:
+
+Net Sales for Atliq's customer has increased significantally year over year with Amazon, Atliq Exclusive, Atliq e Store, Sage and Flipkart being the top 5 with above 200% growth in net sales performance. In addition to this 5 new customers in year 2021 have also increased the overall net sales of 589.9 Million.
+
+![Customer Performance](images/Screenshot%202026-10-03%20000102.png)
+
+
+
+
 
 
 
