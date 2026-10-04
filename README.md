@@ -39,11 +39,11 @@ Atliq's Data structure consists for four main tables as seen below: dim_customer
 
 **Net Sales for Atliq's customer has increased significantally year over year** with **Amazon, Atliq Exclusive, Atliq e Store, Sage and Flipkart** being the **top 5 customers with above 200% growth in net sales performance.** In addition to this **5 new customers in the year 2021** have also added to the **overall increase in net sales of 589.9 Million.**
 
-[Customer Performance](images/Screenshot%202026-10-03%20000102.png)
+![Customer Performance](images/Screenshot%202026-10-03%20000102.png)
 
 With market performance the net sales for Atliq have performed well but have **failed to reach target set for the fiscal year 2021**, with **Poland, Canada, Spain, Indonesia and Germany are below 12%**. 
 
-[Market Performance](images/Screenshot%202026-10-03%20165531.png)
+![Market Performance](images/Screenshot%202026-10-03%20165531.png)
 
 #### Finance Overview:
 
@@ -61,7 +61,7 @@ While these were the key findings the following sections will explore additional
 
 - Atliq has **expanded** its **customer base by adding 5 new stores** which have **contributed a total net sales of 6.3 Million of about 1.05% of total net sales in the year 2021**.
 
-[Customer](images/Screenshot%202026-10-04%20171440.png)
+![Customer](images/Screenshot%202026-10-04%20171440.png)
 
 #### Market Performance:
 
@@ -69,13 +69,13 @@ While these were the key findings the following sections will explore additional
 
 - **Norway, Spain and Newzealand** being the **new markets** the company has entered in the 2020 have an **average 5% increase** in net sales revenue year-over-year.
 
-[Market](images/Screenshot%202026-10-04%20195018.png)
+![Market](images/Screenshot%202026-10-04%20195018.png)
 
 #### Division Performance:
 
 **Peripherals & Accessories(P & A)** account for **major net sales of more than 53%-56%** with **Network & Storage(N & S)** contributed an **average net sales of 21%.**
 
-[Division](images/Screenshot%202026-10-04%20211753.png)
+![Division](images/Screenshot%202026-10-04%20211753.png)
 
 #### P & L Statement:
 
@@ -89,9 +89,9 @@ While these were the key findings the following sections will explore additional
 
 - **EU region** markets have **performed well with a GM% of 38.5%**, while **APAC and NA region** have **fallen behind with a GM% of 36.4% and 37.8%.**
 
-[P&L FY](images/Screenshot%202026-10-05%20004539.png)
+![P&L FY](images/Screenshot%202026-10-05%20004539.png)
 
-[P&L Market](images/Screenshot%202026-10-05%20004728.png)
+![P&L Market](images/Screenshot%202026-10-05%20004728.png)
 
 
 
