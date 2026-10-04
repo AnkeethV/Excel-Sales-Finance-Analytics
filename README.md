@@ -7,9 +7,9 @@ The company has significant amount of data on its sales and operational efficien
 
 Insights and recommendations are provided on the following key areas:
 
-- Net Sales Performance: Evaulation of historical sales patterns, by region, divison and market, focusing on Net Sales Revenue for each customer.
-- Market Performance: Evaulation of historical sales patterns, by region and divison, focusing on Net Sales Revenue for each market and comparsion with the target.
-- Profit & Loss Statement: P & L statement with key parameters Net Sales, COGS, Gross Margin and Gross Margin% by region, division and market.
+- **Customer Performance**: Evaulation of historical sales patterns, by region, divison and market, focusing on Net Sales Revenue for each customer.
+- **Market Performance**: Evaulation of historical sales patterns, by region and divison, focusing on Net Sales Revenue for each market and comparsion with the target.
+- **Profit & Loss Statement**: P & L statement with key parameters Net Sales, COGS, Gross Margin and Gross Margin% by region, division and market.
 
 Customer performance report can be found [here](https://github.com/AnkeethV/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance.pdf)
 
@@ -31,15 +31,72 @@ Atliq's Data structure consists for four main tables as seen below: dim_customer
 - dim_market: contains market-related data.
 - fact_sales_monthly: contains monthly sales data for each product.
 
-![Data Model](images/Screenshot%202026-09-27%20234531.png)
+[Data Model](images/Screenshot%202026-09-27%20234531.png)
 
 # Executive Summary
 
 #### Sales Overview:
 
-Net Sales for Atliq's customer has increased significantally year over year with Amazon, Atliq Exclusive, Atliq e Store, Sage and Flipkart being the top 5 with above 200% growth in net sales performance. In addition to this 5 new customers in year 2021 have also increased the overall net sales of 589.9 Million.
+**Net Sales for Atliq's customer has increased significantally year over year** with **Amazon, Atliq Exclusive, Atliq e Store, Sage and Flipkart** being the **top 5 customers with above 200% growth in net sales performance.** In addition to this **5 new customers in the year 2021** have also added to the **overall increase in net sales of 589.9 Million.**
 
-![Customer Performance](images/Screenshot%202026-10-03%20000102.png)
+[Customer Performance](images/Screenshot%202026-10-03%20000102.png)
+
+With market performance the net sales for Atliq have performed well but have **failed to reach target set for the fiscal year 2021**, with **Poland, Canada, Spain, Indonesia and Germany are below 12%**. 
+
+[Market Performance](images/Screenshot%202026-10-03%20165531.png)
+
+#### Finance Overview:
+
+We see that **GM% declines to 2% after 2019 this is accounted for as year 2020 was Covid**, although the **overall revenue has increased to about 200% in the year 2021.** 
+
+While these were the key findings the following sections will explore additional contirbuting factors and highlight key oppertunity areas of improvement.
+
+![P&L Statement](images/Screenshot%202026-10-03%20172820.png)
+
+# Insights Deep Dive
+
+#### Customer Performance:
+
+- Atliq's **top 5 customers contributed 39.4%** of **total net sales in the year 2021**, these customers have consistently performed from FY 2019.
+
+- Atliq has **expanded** its **customer base by adding 5 new stores** which have **contributed a total net sales of 6.3 Million of about 1.05% of total net sales in the year 2021**.
+
+[Customer](images/Screenshot%202026-10-04%20171440.png)
+
+#### Market Performance:
+
+- **61.3% of total net sales are contributed by top 5 countries in the FY 2021.** Although these countries have **still failed** to **reach the target set** for FY 2021 and are **behind 6-15%.**
+
+- **Norway, Spain and Newzealand** being the **new markets** the company has entered in the 2020 have an **average 5% increase** in net sales revenue year-over-year.
+
+[Market](images/Screenshot%202026-10-04%20195018.png)
+
+#### Division Performance:
+
+**Peripherals & Accessories(P & A)** account for **major net sales of more than 53%-56%** with **Network & Storage(N & S)** contributed an **average net sales of 21%.**
+
+[Division](images/Screenshot%202026-10-04%20211753.png)
+
+#### P & L Statement:
+
+- **GM% declines to about 5%** in 2021 post covid compared to 2019. Although the **overall revenue has increased to about 200% in 2021.**
+
+- **In 2019** there is **no significant variations in GM% which falls between 41-42% range** and **October, February and June peaking at 42%.**
+
+- **In 2020 and 2021** also there are **no significant variations in GM% which ranges between 37.3-36.4%.**
+
+- Company has **gained highest GM%** in **Newzealand, Japan, Netherlands, France and United Kingdom** contributing an **average of 43.9%.**
+
+- **EU region** markets have **performed well with a GM% of 38.5%**, while **APAC and NA region** have **fallen behind with a GM% of 36.4% and 37.8%.**
+
+[P&L FY](images/Screenshot%202026-10-05%20004539.png)
+
+[P&L Market](images/Screenshot%202026-10-05%20004728.png)
+
+
+
+
+
 
 
 
