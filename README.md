@@ -31,7 +31,7 @@ Atliq's Data structure consists for four main tables as seen below: dim_customer
 - dim_market: contains market-related data.
 - fact_sales_monthly: contains monthly sales data for each product.
 
-[Data Model](images/Screenshot%202026-09-27%20234531.png)
+![Data Model](images/Screenshot%202026-09-27%20234531.png)
 
 # Executive Summary
 
@@ -73,7 +73,7 @@ While these were the key findings the following sections will explore additional
 
 #### Division Performance:
 
-**Peripherals & Accessories(P & A)** account for **major net sales of more than 53%-56%** with **Network & Storage(N & S)** contributed an **average net sales of 21%.**
+**Peripherals & Accessories(P & A)** account for **major net sales of more than 53%-56%** with **Personal Computer(PC)** contributed an **average net sales of 24%.**
 
 ![Division](images/Screenshot%202026-10-04%20211753.png)
 
@@ -81,28 +81,24 @@ While these were the key findings the following sections will explore additional
 
 - **GM% declines to about 5%** in 2021 post covid compared to 2019. Although the **overall revenue has increased to about 200% in 2021.**
 
-- **In 2019** there is **no significant variations in GM% which falls between 41-42% range** and **October, February and June peaking at 42%.**
+- **In 2019** there is **no significant variations in GM% which falls between 41-42% range** and **October, February and June peaking at 42%.** **In 2020 and 2021** also there are **no significant variations in GM% which ranges between 37.3-36.4%.**
 
-- **In 2020 and 2021** also there are **no significant variations in GM% which ranges between 37.3-36.4%.**
+- Company has **gained highest GM%** in **Newzealand, Japan, Netherlands, France and United Kingdom** contributing an **average of 43.9% to overall GM%.**
 
-- Company has **gained highest GM%** in **Newzealand, Japan, Netherlands, France and United Kingdom** contributing an **average of 43.9%.**
-
-- **EU region** markets have **performed well with a GM% of 38.5%**, while **APAC and NA region** have **fallen behind with a GM% of 36.4% and 37.8%.**
+- **EU region** markets have **performed well with a GM% of 38.5%**, while **APAC region** has **fallen behind with a GM% of 36.4%.**
 
 ![P&L FY](images/Screenshot%202026-10-05%20004539.png)
 
 ![P&L Market](images/Screenshot%202026-10-05%20004728.png)
 
+# Recommendations
 
+- **Company's overall net sales revenue of 39.4% is being contributed by its top 5 customers two of which are company owned stores**, **diversifying overall net sales revenue** to more customers will **reduce the dependency** on these customers.
 
+- **Almost 61% of overall net sales revenue are contributed by top 5 markets India being the highest**, Company has already entered **three new markets Norway, Spain and Newzealand** and should continue to **explore more of EU and APAC region.**
 
+- Company has a **major concentration of net sales** in **Peripherals & Accessories(P & A)** which accounts to **55%**. **Personal Computer(PC)** division is **overlooked and has shown great potential of 413% growth in 2021**. **Network & Storage(N & S)** also requires attention in terms of **product optimization**.
 
+- Company should **concentrate on optimising COGS cost which includes manufacturing, freight and other costs or increase net sales** to increase the **GM% as of which is about 37%**
 
-
-
-
-
-
-
-
-
+- Company is **well established in India** more diversification is required in APAC region, Countries like **South Korea, Australia and Indonesia to be concentrated**.
