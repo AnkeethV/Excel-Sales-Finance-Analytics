@@ -7,9 +7,9 @@ The company has significant amount of data on its sales and operational efficien
 
 Insights and recommendations are provided on the following key areas:
 
-- **Customer Performance**: Evaulation of historical sales patterns, by region, divison and market, focusing on Net Sales Revenue for each customer.
-- **Market Performance**: Evaulation of historical sales patterns, by region and divison, focusing on Net Sales Revenue for each market and comparsion with the target.
-- **Profit & Loss Statement**: P & L statement with key parameters Net Sales, COGS, Gross Margin and Gross Margin% by region, division and market.
+- **Customer Performance**: Evaluation of historical sales patterns, by region, division and market, focusing on Net Sales Revenue for each customer.
+- **Market Performance**: Evaluation of historical sales patterns, by region and division, focusing on Net Sales Revenue for each market and comparison with the target.
+- **Profit & Loss Statement**: P & L statement with key metrics Net Sales, COGS, Gross Margin and Gross Margin% by region, division and market.
 
 Customer performance report can be found [here](https://github.com/AnkeethV/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance.pdf)
 
